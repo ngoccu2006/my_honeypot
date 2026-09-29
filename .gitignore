@@ -1,0 +1,19 @@
+# SSH host key (tự tạo lại bằng ssh-keygen trên mỗi máy, không commit)
+server.key
+server.key.pub
+
+# Log files honeypot tự sinh ra khi chạy
+*.log
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code / IDE
+.vscode/
+.idea/

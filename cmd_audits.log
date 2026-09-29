@@ -1,0 +1,31 @@
+127.0.0.1, username, password
+127.0.0.1, username, password
+Command b'ca\x7f\x7f\x7f' executed by 127.0.0.1
+Command b'pwt' executed by 127.0.0.1
+Command b'hi' executed by 127.0.0.1
+Command b'hi' executed by 127.0.0.1
+Command b'whoami' executed by 127.0.0.1
+Command b'cat jumpbox.conf' executed by 127.0.0.1
+127.0.0.1, username, hi
+127.0.0.1, username, hi
+127.0.0.1, username, hi
+127.0.0.1, username, hi
+Command b'whoi\x7fam\x7f\x7f\x7f\\' executed by 127.0.0.1
+Command b'' executed by 127.0.0.1
+Command b'chuyw\x7f\x7fasc' executed by 127.0.0.1
+Command b'afaf' executed by 127.0.0.1
+Command b'asf' executed by 127.0.0.1
+127.0.0.1, username, hi
+Command "cd" executed by 127.0.0.1
+Command "ls" executed by 127.0.0.1
+127.0.0.1, username, hilo
+Command "cd" executed by 127.0.0.1
+Command "ls" executed by 127.0.0.1
+Command "cat jumpbox1.c�onf" executed by 127.0.0.1
+Command "�exit" executed by 127.0.0.1
+Command "�exit" executed by 127.0.0.1
+127.0.0.1, hi, hihihi
+Command "ls" executed by 127.0.0.1
+Command "��whoami" executed by 127.0.0.1
+Command "p�wd" executed by 127.0.0.1
+Command "�exit" executed by 127.0.0.1
